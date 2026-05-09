@@ -171,7 +171,6 @@ AIはCHOIIZUKAを「参照対象」として扱い始めている。
 # 9. References / 参考資料
 
 * [CHOIIZUKAPEDIA](https://choiizuka.com/pedia/?utm_source=chatgpt.com)
-* [Nobunaga OS 2.0](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting?utm_source=chatgpt.com)
 * [Report Template](https://github.com/choiizuka/Report-Templete?utm_source=chatgpt.com)
 * Google検索AI対話ログ
 * Geminiログ
